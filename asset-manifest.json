@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/4osero/static/css/main.9af1920b.css",
+    "main.js": "/4osero/static/js/main.85eebc03.js",
+    "static/js/787.994511a4.chunk.js": "/4osero/static/js/787.994511a4.chunk.js",
+    "index.html": "/4osero/index.html",
+    "main.9af1920b.css.map": "/4osero/static/css/main.9af1920b.css.map",
+    "main.85eebc03.js.map": "/4osero/static/js/main.85eebc03.js.map",
+    "787.994511a4.chunk.js.map": "/4osero/static/js/787.994511a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9af1920b.css",
+    "static/js/main.85eebc03.js"
+  ]
+}
